@@ -1,2 +1,2 @@
 # College-
-ECE 111: Wu, Chin-Chou_finalproject 
+Here I'll upload most of my project's works and/or final reports from my college life at UC San Diego as a electrical engineering Undergraduate.
